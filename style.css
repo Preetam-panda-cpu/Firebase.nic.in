@@ -1,0 +1,799 @@
+/*headersectionblock css starts here*/
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #1e88e5; 
+    
+}
+#headerBlock{
+    background-color: #fff;
+    box-shadow: 0 1px 2px 0 rgba(60,64,67,.3), 0 2px 6px 2px rgba(60,64,67,.15);
+}
+#headerBlock .navbar .navbar-brand img{
+    width: 116px;
+    margin-top: 7px;
+}
+
+#headerBlock .navbar .nav-link{
+    color: #5f6368;
+    font-size: 14px;
+    font-weight: bold;
+}
+#headerBlock nav{
+    padding: 3px 20px;
+}
+#headerBlock .navbar .navbar-brand{
+    margin-right: 50px;
+}
+#headerBlock nav .nav-link{
+    padding: 15px 20px;
+}
+#headerBlock  .nav-link:hover{
+    border-bottom: 3px solid#5f6368;
+}
+#headerBlock nav input{
+    padding: 8px 0px 0 34px;
+    float: right;
+    margin-right: 280px;
+    margin-top: -44px;
+    font-size: 20px;
+    background-color: #eee;
+    width: 242px;
+}
+.position-absolute{
+    position: absolute !important;
+    top: 15px;
+    left: 10px;
+    color: #888;
+}
+li{
+    list-style: none;
+}
+.navbar-toggler{
+    float: right;
+    margin-top: 200px;
+}
+.nav-link2{
+    float: right;
+    margin-top: -38px;
+    margin-right: 68px;
+    color: #1e88e5;
+    text-decoration: none;
+    font-weight: 550;
+}
+.nav-link3{
+    float: right;
+    margin-top: -38px;
+    padding-left: -17px;
+    margin-right: -11px;
+    color: #1e88e5;
+    text-decoration: none;
+    font-weight: 550;
+}
+ .search img{
+    height:31px;
+    float: left;
+    padding-left: 694px;
+    margin-top: -42px;
+    color: #eee;
+}
+.devsite-select-toggle{
+float: right;
+    margin-top: -44px;
+    padding-left: -17px;
+    margin-right: 191px;
+    padding: 4px 12px 0 15px;
+    color: #3c4043;
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+    font: 400 14px/36px Google Sans,Noto Sans,Noto Sans JP,Noto Sans KR,Noto Naskh Arabic,Noto Sans Thai,Noto Sans Hebrew,Noto Sans Bengali,sans-serif;
+    line-height: 19px;
+    list-style: none;
+    text-decoration: none;
+    text-indent: .01px;
+    text-overflow: ellipsis;
+    transition: background-color .2s;
+    vertical-align: middle;
+    white-space: nowrap;
+    box-sizing: inherit;
+    min-width: 24px;
+    outline: 0;
+    overflow: hidden;
+    text-align: left;
+    height: 24px;
+    text-align: center;
+    background-color: white;
+    width:53px;
+}
+
+.nav-link4{
+    float: right;
+    margin-top: -44px;
+    margin-right: 1087px;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #5f6368;
+    
+}
+.nav-link5{
+    float: right;
+    margin-top: -44px;
+    margin-right: 986px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #5f6368;
+    text-decoration: none;
+}
+
+.nav-link6{
+float: right;
+    margin-top: -44px;
+    margin-right: 908px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #5f6368;
+    text-decoration: none;
+}
+.nav-link7{
+    float: right;
+    margin-top: -44px;
+    margin-right: 847px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #5f6368;
+    text-decoration: none;
+}
+.nav-link8{
+float: right;
+    margin-top: -44px;
+    margin-right: 742px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #5f6368;
+    text-decoration: none;
+}
+/*headersectionblock css ends here*/
+
+/*sliderBlock css starts here*/
+#sliderBlock
+buildAppSection
+#platformBlock{
+    background-color: #039be5;
+    height: 100%;
+    margin-top: -78px;
+}
+.hero h1{
+    color: #fff;
+    padding-left: 108px;
+    padding-top: 62px;
+    margin: 48px -1px 24px;
+    box-sizing: inherit;
+    text-size-adjust: 100%;
+    z-index: 2;
+    text-align: left;
+    margin-bottom: 32px;
+    top: 197px;
+    position: relative;
+    padding-left:240px;
+    font-size: 50px;
+    
+}
+
+#sliderBlock header{
+    margin: 80px 0 40px 0;
+    
+}
+.hero-image{
+    max-width: 100%;
+    position:absolute;
+    right:0%;
+    margin: -599px -376px;
+}
+
+.one button{
+    height: 46px;
+    width: 166px;
+    color: #039be5;
+    font-size: 20px;
+    font-family: "Google Sans",sans-serif;
+    letter-spacing: .21px;
+    line-height: 16px;
+    display: inline-block;
+    border-radius: 8px;
+}
+.one{
+color: #fff;
+    padding-left: 108px;
+    padding-top: 16px;
+    margin: 48px -1px 24px;
+    box-sizing: inherit;
+    text-size-adjust: 100%;
+    z-index: 2;
+    text-align: left;
+    margin-bottom: 32px;
+    top: 168px;
+    position: relative;
+    padding-left: 240px;
+    font-size: 20px;
+   
+}
+.Two{
+color: white;
+padding-left: 108px;
+padding-top: 25px;
+margin: 48px -1px 24px;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 500;
+    font-family: "Roboto",sans-serif;
+    border-radius: 8px;
+    letter-spacing: .57px;
+    font-weight: 500;
+}
+.Two button{
+    height: 46px;
+    width: 166px;
+    color: #039be5;
+    font-size: 20px;
+    font-family: "Google Sans",sans-serif;
+    letter-spacing: .21px;
+    line-height: 16px;
+    display: inline-block;
+    border-radius: 8px;
+}
+
+.Two h5{
+padding-top: -59px;
+    color: #fff;
+    padding-left: 108px;
+    padding-top: -25px;
+    margin: 48px -1px 24px;
+    box-sizing: inherit;
+    text-size-adjust: 100%;
+    z-index: 2;
+    text-align: left;
+    margin-bottom: 32px;
+    top: 22px;
+    position: relative;
+    padding-left: 369px;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+#sliderBlock header{
+    margin: 80px 0 40px 0;
+}
+/*sliderBlock css ends here*/
+
+/*buildAppSection css starts here*/
+
+#buildAppSection{
+    background: #fff;
+    border-radius: 8px;
+    border: 1px solid #eceff1;
+    box-shadow: 0 1px 2px 0 rgba(60,64,67,.3), 0 1px 3px 1px rgba(60,64,67,.15);
+    margin: 0 auto 20px;
+    max-width: 1280px;
+    overflow: hidden;
+    margin-bottom: 48px;
+    position: relative;
+}
+#buildAppSection .container .row .col-md-4 h2{
+    margin-top: 72px;
+    padding-left: 83px;
+    color: #424242;
+    font: 500 20px/26px "Google Sans",sans-serif;
+}
+#buildAppSection .container .row .col-md-4 p{
+    padding-left: 85px;
+    margin: 0 0 12px;
+    color: #757575;
+    font: 400 14px/24px "Roboto",sans-serif;
+}
+#buildAppSection .container .row .col-md-3 h3{
+    padding-left: 424px;
+    margin-top: -178px;
+    color: #424242;
+    font: 500 20px/26px "Google Sans",sans-serif;
+    margin-bottom: 157px;
+}
+#buildAppSection .container .row .col-md-3 p{
+    padding-left: 427px;
+    margin-top: -122px;
+    color: #757575;
+    font: 400 14px/24px "Roboto",sans-serif;
+}
+#buildAppSection .container .row .col-md-1 h4{
+    padding-left: 820px;
+    margin-top: -178px;
+    color: #424242;
+    font: 500 20px/26px "Google Sans",sans-serif;
+    margin-bottom: 157px;
+}
+#buildAppSection .container .row .col-md-1 p{
+    color: #757575;
+    font: 400 14px/24px "Roboto",sans-serif;
+    float: right;
+    padding-right: 188px;
+    margin-top: -115px;
+    padding-bottom: 73px;
+}
+
+
+strong{
+    margin-top: 59px;
+    padding: 32px 112px 24px;
+    float: right;
+    padding-top: 114px;
+    padding-right: 597px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    font-family: "Google Sans",sans-serif;
+    color: #4a4a4a;
+    background: #eceff1;
+    width: 572px;
+}
+
+/*platformSection css starts here*/
+
+#platformBlock {
+    background: #fff;
+    border-radius: 8px;
+    border: 1px solid #eceff1;
+    box-shadow: 0 1px 2px 0 rgba(60,64,67,.3), 0 1px 3px 1px rgba(60,64,67,.15);
+    margin: 0 auto 20px;
+    max-width: 1280px;
+    overflow: hidden;
+    height: 2000px;
+}
+#platformBlock .container header h1{
+    margin-bottom: 112px;
+    padding-right: 0!important;
+    font: 500 44px/54px "Google Sans",sans-serif;
+    color: #424242;
+    margin-top: 0;
+    margin: 48px 0 24px;
+    text-align: center;
+    padding-bottom: 63px;
+}
+#platformBlock .card1 img{
+    width: 200px;
+    margin: 6px auto;
+    padding-left: 191px;
+    position: absolute;    
+}
+#platformBlock .card2 img{
+    width: 200px;
+    margin: 0 auto;
+    padding-left: 861px;
+    
+}
+#platformBlock .card3 img{
+    float: right;
+    padding-right: 182px;
+    margin-top: -169px;
+    width: 200px;
+}
+.card-title1{
+    padding-left: 185px;
+    font: 500 20px/26px "Google Sans",sans-serif;
+    position: absolute;
+    padding-top: 139px
+}
+
+.card-title2{
+    padding-left: 507px;
+    font: 500 20px/26px "Google Sans",sans-serif;
+}
+.card-title3{
+    padding-left: 883px;
+    font: 500 20px/26px "Google Sans",sans-serif;
+    margin-top: -37px;
+}
+
+.list3{
+    float: right;
+    padding-right: 294px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px;
+}
+
+.list2{
+    float: right;
+    padding-right: 204px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px;
+}
+.product-icon__beta{
+    color: #039be5;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.list1{
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    padding-top: 195px;
+    padding-left: 182px;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px;
+}
+.list4{
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    padding-top: 226px;
+    padding-left: 182px;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px;
+}
+.list5{
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    padding-top: 268px;
+    padding-left: 182px;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px;
+}
+.list6{
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    padding-top: 303px;
+    padding-left: 182px;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px
+}
+.list7{
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    padding-top: 333px;
+    padding-left: 182px;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px 
+}
+.list8{
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    padding-top: 370px;
+    padding-left: 182px;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px 
+} 
+.list9{
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    padding-top: 405px;
+    padding-left: 182px;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px
+}
+.list10{
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    padding-top: 48px;
+    padding-left: 513px;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px;
+}
+.list11{
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    padding-top: 100px;
+    padding-left: 513px;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px;
+}
+.list12{
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    padding-top: 150px;
+    padding-left: 513px;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px;
+}
+.list13{
+float: right;
+    padding-top: 165px;
+    margin: -121px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px;
+}
+.list14{
+    float: right;
+    padding-top: 190px;
+    padding-right: 20px;
+    margin: -110px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px;
+}
+.list15{
+    float: right;
+    padding-top: 240px;
+    margin: -125px;
+   padding-right: 7px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 10px;
+    padding-left: 10px;
+}
+.list16{
+    float: right;
+    padding-top: 280px;
+    padding-right: 15px;
+    margin: -125px;
+   padding-right: 2px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px;
+}
+.list17{
+    float: right;
+    padding-top: 320px;
+    padding-right: 15px;
+    margin: -125px;
+   padding-right: 8px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px;
+}
+.list18{
+    float: right;
+    padding-top: 360px;
+    padding-right: 15px;
+    margin: -125px;
+   padding-right: 8px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px;  
+}
+
+.Three{
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    padding-top: 483px;
+    padding-left: 162px;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px;
+    border-radius: 8px;
+    color: #fff;
+    display: inline-block;
+}
+.Three button{
+    padding-top: 14px;
+    padding-bottom: 14px;
+    background-color: #039be5;
+    border-radius: 8px;
+    color: #fff;
+    text-align: center;
+    width: 176px;
+    font-weight: 400;
+}
+.four{
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    padding-top: 288px;
+    padding-left: 549px;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px;
+    border-radius: 8px;
+    color: #fff;
+    display: inline-block;
+}
+.four button{
+    padding-top: 14px;
+    padding-bottom: 14px;
+    background-color: #039be5;
+    border-radius: 8px;
+    color: #fff;
+    text-align: center;
+    width: 176px;
+    font-weight: 400;
+}
+.five{
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    padding-top: 288px;
+    padding-left: 945px;
+    color: #424242;
+    font: 500 16px "Google Sans",sans-serif;
+    line-height: 20px;
+    border-radius: 8px;
+    color: #fff;
+    display: inline-block;
+} 
+.five button{
+    padding-top: 14px;
+    padding-bottom: 14px;
+    background-color: #039be5;
+    border-radius: 8px;
+    color: #fff;
+    text-align: center;
+    width: 176px;
+    font-weight: 400;
+}
+.my-4{
+    padding-top: -72px;
+    width: 1203px;
+    height: -6px;
+    position: relative;
+    margin-top: 456px;
+}
+
+/*Firebase Extensions block css starts here*/
+#ExtensionsBlock{
+    height: 1343px;
+}
+#ExtensionsBlock header h2{
+    text-align: center;
+    margin: 60px 0 16px;
+    font: 500 44px/54px "Google Sans",sans-serif;
+    padding-right: 0!important;
+    color: #424242;
+}
+#ExtensionsBlock header p{
+    font-size: 17px;
+    position: relative;
+    top: 39px;
+    padding-left: 86px;
+    line-height: 28px;
+    font-weight: 400;
+    font-family: "Roboto",sans-serif;
+    text-align: center;
+    color: #757575;
+}
+
+#ExtensionsBlock img{
+    width: 75px;
+    padding-bottom: 20px;
+    padding-top: 80px;
+}
+#ExtensionsBlock  .row{
+    display: flex;
+    padding-left: 128px;
+}
+.col-md-3{
+    padding-right: 20px;
+    padding-left: 96px;
+}
+
+#ExtensionsBlock footer .button{
+    padding-top: 50px;
+    padding-left: 398px;
+}
+
+#ExtensionsBlock footer .button .btn{
+    background-color: #039be5;
+    color: white;
+    padding: 20px 60px;
+    border-radius: 6px;
+    border: none;
+    font-size: 20px;
+    letter-spacing: .21px;
+    line-height: 16px;
+    font-weight: bold;
+    text-decoration: none;
+}
+ /*Firebase Extensions block css ends here*/
+
+ /*integrationBlock css starts here*/
+ .my-2{
+    margin-top: -456px;
+    width: 1119px;
+}
+#integrations header h2{
+    text-align: center;
+    margin: 60px 0 16px;
+    font: 500 44px/54px "Google Sans",sans-serif;
+    padding-right: 0!important;
+    color: #424242;
+}
+#integrations .iconBlock{
+    display: flex;
+}
+#integrations .iconBlock img{
+    width: 45px;
+    padding-left: 38px;
+}
+
+#integrations .iconBlock div{
+    padding: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#integrations .iconBlock p{
+    padding-left: 50px;
+    color: #757575;
+    font: bold 14px/18px "Google Sans",sans-serif;
+    padding-right: 9px;
+}
+
+#integrations footer .button .btn{
+    background-color: #039be5;
+    color: white;
+    padding: 19px 60px;
+    border-radius: 8px;
+    border: none;
+    font-size: 20px;
+    letter-spacing: .21px;
+    line-height: 16px;
+    font-weight: bold;
+    padding-top: 23px;
+    margin: -436px;
+    text-decoration: none;
+}
+#integrations footer .button{
+    padding-top: 536px;
+    padding-left: -31px;
+    margin: -331px;
+}
+/*integrationBlock css ends here*/
+
+/*Google Cloud Platform css starts here*/
+#GoogleCloudPlatform article{
+     background-color: #eee;
+    height: 200px;
+    margin-top: 127px;
+}
+#GoogleCloudPlatform  h2{
+    padding-top: 50px;
+    margin-left: 63px;
+    font: 500 20px/26px "Google Sans",sans-serif;
+    color: #424242;
+}
+#GoogleCloudPlatform  p{
+    display: block;
+    font: 400 14px/24px "Roboto",sans-serif;
+    color: #757575;
+    margin-left: 63px;
+}
+.rightmenu img{
+    float: right;
+    margin-top: -103px;
+    padding-right: 62px;
+}
+/*Google Cloud Platform css ends here*/
